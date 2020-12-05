@@ -1,5 +1,5 @@
 ## Demo react package
 # Installation
 ```
-npm install 
+npm install testing-react-package-abs
 ```
