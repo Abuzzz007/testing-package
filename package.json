@@ -1,0 +1,33 @@
+{
+  "name": "testing-react-package-abs",
+  "version": "0.1.0",
+  "description": "testing my app",
+  "main": "index.js",
+  "author": "Abuzzz007",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abuzzz007/testing-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abuzzz007/testing-package/issues"
+  },
+  "homepage": "https://github.com/Abuzzz007/testing-package#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "@babel/preset-react": "^7.12.7",
+    "babel-loader": "^8.2.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
